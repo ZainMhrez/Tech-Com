@@ -1,2 +1,2 @@
 # Tech-Com
-This is the first website I make from scratch, using HTML CSS JavaScript
+This is my first website from scratch, I made it from scratch, using HTML CSS JavaScript.
